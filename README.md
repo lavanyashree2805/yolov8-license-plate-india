@@ -13,11 +13,12 @@ The detection pipeline is divided into two stages:
 
 ### Sample Output
 
-| Description        | Image |
-|--------------------|-------|
-| Original Input     | ![Original](data/sample_images/step1_original.png) |
-| Cropped Vehicle    | ![Vehicle](data/sample_images/step2_cropped_vehicle.png) |
-| Cropped Number Plate | ![Plate](data/sample_images/step3_cropped_numberPlate.png) |
+| Description         | Image |
+|---------------------|-------|
+| Original Input      | ![Original](https://github.com/lavanyashree2805/yolov8-license-plate-india/blob/main/data/sample_images/step1_original.png?raw=true) |
+| Cropped Vehicle     | ![Vehicle](https://github.com/lavanyashree2805/yolov8-license-plate-india/blob/main/data/sample_images/step2_cropped_vehicle.png?raw=true) |
+| Cropped Number Plate| ![Plate](https://github.com/lavanyashree2805/yolov8-license-plate-india/blob/main/data/sample_images/step3_cropped_numberPlate.png?raw=true) |
+
 
 ---
 
