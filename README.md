@@ -52,7 +52,6 @@ python inference_pipeline.py --image data/sample_images/step1_original.png
 │       ├── step2_cropped_vehicle.png
 │       └── step3_cropped_numberPlate.png
 ```
-## Dataset Sources and Attribution
 ## Dataset Sources and References
 
 The following datasets and resources were referenced and/or used during model training, experimentation, and fine-tuning:
