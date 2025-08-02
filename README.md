@@ -51,9 +51,6 @@ python inference_pipeline.py --image data/sample_images/step1_original.png
 │       ├── step1_original.png
 │       ├── step2_cropped_vehicle.png
 │       └── step3_cropped_numberPlate.png
-├── outputs/
-│   ├── cropped_vehicles/
-│   └── cropped_plates/
 ```
 ## Dataset Sources and Attribution
 ## Dataset Sources and References
@@ -97,6 +94,7 @@ This project is licensed under the MIT License.
 
 ## Author
 Lavanya Shree
+
 Developed at the Centre for Development of Telematics (C-DOT), New Delhi.
 
 
