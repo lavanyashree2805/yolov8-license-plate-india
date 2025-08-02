@@ -54,23 +54,48 @@ python inference_pipeline.py --image data/sample_images/step1_original.png
 ├── outputs/
 │   ├── cropped_vehicles/
 │   └── cropped_plates/
-Dataset Sources and Attribution
-Large License Plate Dataset – KaggleHub
+```
+## Dataset Sources and Attribution
+## Dataset Sources and References
 
-Manually collected and annotated Indian vehicle images
+The following datasets and resources were referenced and/or used during model training, experimentation, and fine-tuning:
 
-Ultralytics YOLOv8 Repository
+1. **Car License Plate Detection Dataset – Kaggle**  
+   https://www.kaggle.com/datasets/andrewmvd/car-plate-detection
 
-Future Improvements
+2. **Indian License Plate Dataset – Kaggle**  
+   https://www.kaggle.com/datasets/sanjanaprasad/indian-license-plate-dataset
+
+3. **Electric Vehicle Number Plate Detection – Kaggle**  
+   https://www.kaggle.com/datasets/dataclusterlabs/electric-vehicle-number-plate-image-dataset
+
+4. **Indian License Plates with Labels – Kaggle**  
+   https://www.kaggle.com/datasets/kedarsai/indian-license-plates-with-labels
+
+5. **License Plate Detection Dataset ANPR (YOLO Format)**  
+   https://www.kaggle.com/datasets/harshitsingh09/license-plate-detection-dataset-anpr-yolo-format
+
+6. **Large License Plate Detection Dataset – Kaggle**  
+   https://www.kaggle.com/datasets/fareselmenshawii/large-license-plate-dataset
+
+7. **YOLOv4: Optimal Speed and Accuracy of Object Detection – ArXiv**  
+   Bochkovskiy, Alexey, et al. https://arxiv.org/abs/2004.10934
+
+8. **YOLOv5 and YOLOv8 by Ultralytics**  
+   - YOLOv5: https://github.com/ultralytics/yolov5  
+   - YOLOv8: https://github.com/ultralytics/ultralytics
+
+
+## Future Improvements
 Add OCR module to extract alphanumeric content from detected plates
 
 Extend support for live video streams or webcam feeds
 
 Improve robustness under poor lighting and varied angles
-License
+## License
 This project is licensed under the MIT License.
 
-Author
+## Author
 Lavanya Shree
 Developed at the Centre for Development of Telematics (C-DOT), New Delhi.
 
